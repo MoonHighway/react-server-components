@@ -18,3 +18,10 @@ You'll just need a code editor + [Node.js](https://nodejs.org/) version 18.17.0 
 ## Slides
 
 - [Slide Deck](https://www.canva.com/design/DAFz4zFmK3s/U1jeWiru9i1mvAz0zNFzIA/view)
+
+## Docs and Guides
+
+- [RSC - React Docs](https://react.dev/reference/rsc/server-components)
+- [Server Actions - React Docs](https://react.dev/reference/rsc/server-actions)
+- [Making Sense of Server Components - Josh Comeau](https://www.joshwcomeau.com/react/server-components/)
+- [Next Data Fetching](https://nextjs.org/docs/app/building-your-application/data-fetching/fetching)
