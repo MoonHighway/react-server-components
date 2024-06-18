@@ -2,6 +2,10 @@
 
 In this workshop, we’ll build and iterate on an app that takes advantage of the server components architecture to build a high-performance application. Along the way, we’ll get comfortable with best practices in React routing, caching, and data loading.
 
+## Setup Instructions
+
+You'll just need a code editor + [Node.js](https://nodejs.org/) version 18.17.0 or higher.
+
 ## Topics
 
 - Understanding React Rendering Patterns
@@ -13,4 +17,4 @@ In this workshop, we’ll build and iterate on an app that takes advantage of th
 
 ## Slides
 
-- [Slide Deck](https://www.canva.com/design/DAGH9aQx4Jc/3pyaAeJlAyXWHQWQ4Zyf8g/view?utm_content=DAGH9aQx4Jc&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Slide Deck](https://www.canva.com/design/DAFz4zFmK3s/U1jeWiru9i1mvAz0zNFzIA/view)
