@@ -26,6 +26,7 @@ You'll just need a code editor + [Node.js](https://nodejs.org/) version 18.17.0 
 - [Making Sense of Server Components - Josh Comeau](https://www.joshwcomeau.com/react/server-components/)
 - [Next Data Fetching](https://nextjs.org/docs/app/building-your-application/data-fetching/fetching)
 
-## Supabase Databases
+## Other Tools
 
 - [Supabase](https://supabase.com/)
+- [Clerk Auth](https://clerk.com)
